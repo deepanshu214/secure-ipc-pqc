@@ -1,0 +1,4 @@
+secure_ipc/keys/
+__pycache__/
+*.pyc
+.DS_Store
